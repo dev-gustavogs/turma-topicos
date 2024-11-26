@@ -15,6 +15,6 @@ Período: 1º Período
 
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
-| Aluno 1        | 123456    | Equipe A |
-| Aluno 2        | 654321    | Equipe B |
+| Ana Carolina Orlando Grácio | 2024211790081 | Equipe Guga |
+
 <!-- Adicione mais alunos aqui -->
