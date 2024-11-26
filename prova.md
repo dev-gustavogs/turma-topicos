@@ -15,6 +15,7 @@ Período: 1º Período
 
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
+
 | César Cabral.  | 2024211510250 | Equipe Guga |
 
 <!-- Adicione mais alunos aqui -->
