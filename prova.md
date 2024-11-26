@@ -15,6 +15,6 @@ Período: 1º Período
 
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
-| Lucivânia Ramiro| 123456    | Equipe A |
-
+| Lucivânia Ramiro| 2024211510234    | Equipe Guga |
+| César Cabral. | 2024211510250 | Equipe Guga |
 <!-- Adicione mais alunos aqui -->
