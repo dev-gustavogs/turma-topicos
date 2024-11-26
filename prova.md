@@ -15,6 +15,4 @@ Período: 1º Período
 
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
-| Aluno 1        | 123456    | Equipe A |
-| Aluno 2        | 654321    | Equipe B |
-<!-- Adicione mais alunos aqui -->
+| Tayson oliveira | 2024211510267 | EquipeGuda |
