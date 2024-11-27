@@ -17,4 +17,4 @@ Período: 1º Período
 |----------------|-----------|----------|
 | Lucivânia Ramiro| 2024211510234    | Equipe Guga |
 | César Cabral. | 2024211510250 | Equipe Guga |
-<!-- Adicione mais alunos aqui -->
+| tayson Oliveira | 2024211510267 | Equipe guga |
