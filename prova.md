@@ -19,3 +19,4 @@ Período: 1º Período
 | César Cabral. | 2024211510250 | Equipe Guga |
 | tayson Oliveira | 2024211510267 | Equipe guga |
 | Ana Carolina Orlando | 2024211790081 | Equipe guga |
+| Pedro Duarte | 2024211510243 | Equipe guga |
